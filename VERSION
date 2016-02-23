@@ -1,0 +1,4 @@
+1.0.1 - Jan 30, 2010
+Fixed avg speed field to account for milliseconds instead of seconds
+1.0.0 - Nov 14, 2009
+Initial Release
